@@ -1,6 +1,7 @@
 # Omar_licenses_github
 
 1. Apache License 2.0
+
 ¿Qué es?
 La Apache License 2.0 es una licencia permisiva de software que permite a los usuarios usar, modificar y distribuir el software para fines personales o comerciales, siempre que se mantenga un aviso de derechos de autor y un archivo de licencia. Además, incluye una cláusula de patente que protege a los usuarios de demandas por infracción de patentes.
 Beneficios:
